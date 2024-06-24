@@ -454,7 +454,7 @@ section,
 # Hero Section
 --------------------------------------------------------------*/
 .hero {
-  --background-color: #fff;
+  --background-color: #ffefef;
   width: 100%;
   min-height: 100vh;
   position: relative;
@@ -476,7 +476,7 @@ section,
 
 .hero:before {
   content: "";
-  background: color-mix(in srgb, var(--background-color), transparent 30%);
+  background: color-mix(in srgb, var(--background-color), transparent 90%);
   position: absolute;
   inset: 0;
   z-index: 2;
