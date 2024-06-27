@@ -1,1 +1,1 @@
-visit me on : adhikaribinay77.com.np
+visit me: adhikaribinay77.com.np
